@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/LevelBeach.unity
+    guid: 7d078708d06b73e4791dd6a5390ea7e3
+  - enabled: 1
+    path: Assets/Scenes/LevelGravity.unity
+    guid: f01493067655cec4c823ed0c7522ffc9
+  - enabled: 1
     path: Assets/Scripts/mega golf level 3.unity
     guid: 479682f8ca2d1c14daeeaea17b76cf0e
   - enabled: 1
